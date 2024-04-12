@@ -1,6 +1,0 @@
-day la file test
-<<<<<<< HEAD
-test cua br1
-=======
-test cua main
->>>>>>> main
